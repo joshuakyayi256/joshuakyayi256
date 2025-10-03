@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="assets/banner.png" alt="Magero Kyayi Joshua – WebCraftsman & Fullstack Developer" width="100%" />
-</p>
-
 # Hi there 👋, I'm **Magero Kyayi Joshua**
 
 ### 🌍 WebCraftsman & Full-stack Web Developer based in Kampala, Uganda (EAT)
