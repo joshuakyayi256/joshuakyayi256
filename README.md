@@ -1,8 +1,8 @@
 # Hi there 👋, I'm **Magero Kyayi Joshua**
 
-### 🌍 WebCraftsman & Full-stack Web Developer based in Kampala, Uganda (EAT)
+### 🌍 WebCraftsman, Millennium Fellow Class of 2024 & Full-stack Web Developer based in Kampala, Uganda (EAT)
 
-🚀 Bold • 🎨 Animated • ✨ Elegant • 🌱 Purpose-driven  
+🚀 Bold • 🎨 Creative • ✨ Elegant • 🌱 Purpose-driven  
 
 I craft modern, responsive websites and digital experiences with impact.  
 As a **Millennium Fellow**, I’m passionate about using technology and design to empower schools, NGOs, and communities across Africa.
@@ -27,8 +27,8 @@ As a **Millennium Fellow**, I’m passionate about using technology and design t
 ---
 
 ## 🚀 Featured Work
-| Project | Description | Link |
-|---------|-------------|------|
+| Project | Description | Link   |
+|---------|-------------|--------|
 | 🎓 **Kasunganyanja School** | A donations & community portal to support education. | [View Repo](https://github.com/joshuakyayi256/kasunganyanja-school) |
 | 🏡 **Rentbetahouse Nigeria** | Rental/property management with Next.js, Prisma & Paystack. | [View Repo](https://github.com/joshuakyayi256/rentbetahouse-ng) |
 | 🛠️ **HANKER** | A design brand bringing product ideas to life. | [View Repo](https://github.com/joshuakyayi256/HANKER/) |
@@ -46,43 +46,15 @@ As a **Millennium Fellow**, I’m passionate about using technology and design t
 
 ---
 
-## 🎨 Selected Design Work
-<p align="center">
-  <img src="assets/work-01.jpg" width="30%" alt="Case Study 1" />
-  <img src="assets/work-02.jpg" width="30%" alt="Case Study 2" />
-  <img src="assets/work-03.jpg" width="30%" alt="Case Study 3" />
-</p>
-
----
-
 ## 📝 Journal & Reflections
 - **Design for Education** — Why tech must serve communities.  
 - **Building Rentbetahouse** — Lessons scaling with Next.js & Paystack.  
 - **The Power of Journaling** — Documenting design + dev journeys.  
-
 ---
 
-## 👥 Clients
-<p align="center">
-  <img src="assets/client1.png" height="40" /> 
-  <img src="assets/client2.png" height="40" /> 
-  <img src="assets/client3.png" height="40" />
-</p>
-
----
-
-## 💬 Testimonials
-> *“Joshua brought our vision to life with clarity and elegance. He thinks beyond code.”*  
-> — NGO Partner  
-
-> *“Creative, reliable, and impact-driven — working with him was effortless.”*  
-> — Startup Founder  
-
----
-
-## ⚡ Uses
-💻 **Code & Deploy:** VSCode, GitHub, Vercel, Coolify  
-🎨 **Design:** Figma, Canva, Lightroom  
+## ⚡ Daily Drivers
+💻 **Code & Deploy:** VSCode, GitHub, Vercel, Coolify, Cursor  
+🎨 **Design:** Figma, Canva, Lightroom, Unsplash  
 📹 **Content:** Capcut, Premiere Pro  
 🛠 **Learning:** Docker, Postgres, 3D Web  
 
@@ -90,8 +62,8 @@ As a **Millennium Fellow**, I’m passionate about using technology and design t
 
 ## 📊 Stats
 <p>
-  <img src="https://streak-stats.demolab.com?user=joshuakyayi256&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=joshuakyayi256&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joshuakyayi256&show_icons=true&theme=tokyonight&hide_border=true" height="165 right-padding="20 />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuakyayi256&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
