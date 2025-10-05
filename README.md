@@ -46,12 +46,6 @@ As a **Millennium Fellow**, I’m passionate about using technology and design t
 
 ---
 
-## 📝 Journal & Reflections
-- **Design for Education** — Why tech must serve communities.  
-- **Building Rentbetahouse** — Lessons scaling with Next.js & Paystack.  
-- **The Power of Journaling** — Documenting design + dev journeys.  
----
-
 ## ⚡ Daily Drivers
 💻 **Code & Deploy:** VSCode, GitHub, Vercel, Coolify, Cursor  
 🎨 **Design:** Figma, Canva, Lightroom, Unsplash  
