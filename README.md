@@ -192,7 +192,7 @@ My edge: one foot inside institutions (MUA's regulated environment, enterprise s
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/magerokyayijoshua%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magerokyayijoshua@gmail.com)
+[![Email](https://img.shields.io/badge/magerokyayijoshua%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kyayijoshua@gmail.com)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/Joshua_Magero_Kyayi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magero-kyayi-joshua)
 &nbsp;
