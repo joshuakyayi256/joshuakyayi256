@@ -14,7 +14,7 @@
 &nbsp;
 [![Synsify](https://img.shields.io/badge/Synsify-synsify.africa-4ade80?style=flat-square)](https://synsify.africa)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=flat-square&logo=gmail)](mailto:magerokyayijoshua@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=flat-square&logo=gmail)](mailto:kyaijoshua@gmail.com)
 &nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=joshuakyayi256&style=flat-square&color=4ade80&label=Views)
 
@@ -144,7 +144,7 @@ Dashboard rebuild for NIC Life Assurance: full frontend redesign and a re-archit
 
 | 5+ years | 12+ systems | 3 countries | 1 award |
 |:---:|:---:|:---:|:---:|
-| Building since 2021 | Shipped to production | 🇺🇬 🇳🇬 🇰🇪 | MUA GroundUp 26 |
+| Building since 2021 | Shipped to production | Uganda, Nigeria, Kenya | MUA GroundUp 26 |
 
 </div>
 
@@ -156,7 +156,6 @@ Dashboard rebuild for NIC Life Assurance: full frontend redesign and a re-archit
 
 <img src="https://streak-stats.demolab.com?user=joshuakyayi256&theme=dark&hide_border=true&background=0d1117&ring=4ade80&fire=4ade80&currStreakLabel=4ade80&sideLabels=94a3b8&dates=94a3b8" width="70%" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joshuakyayi256&bg_color=0d1117&color=94a3b8&line=4ade80&point=f0f6fc&area=true&area_color=4ade80&hide_border=true" width="100%" alt="Contribution activity graph" />
 
 </div>
 
@@ -176,7 +175,7 @@ My edge is having one foot inside institutions (regulated insurance, enterprise 
 
 **Let's build something.** Open to partnerships, enterprise projects and conversations about tech in Africa.
 
-[![Email](https://img.shields.io/badge/magerokyayijoshua%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magerokyayijoshua@gmail.com)
+[![Email](https://img.shields.io/badge/kyaijoshua%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kyaijoshua@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magero-kyayi-joshua)
 
 <picture>
